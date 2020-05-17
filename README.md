@@ -12,3 +12,4 @@ Simple web project, deployment can be on any web server or even local file syste
 
 ## How To Continue
 Run jar file and continue with this
+then run main.java projects gets started
