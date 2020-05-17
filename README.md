@@ -1,8 +1,8 @@
 # Starter Web Project
 
-This is a totally unique project 
+This is a totally unique project liking this
 ## Introduction
-I am shivam and i love to write code and do cooking
+I am shivam and i love to write code and do cooking i also like to play football
 
 ## Purpose
 As stated above, the main purpose is to provide simple examples for git training
