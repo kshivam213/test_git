@@ -11,4 +11,4 @@ As stated above, the main purpose is to provide simple examples for git training
 Simple web project, deployment can be on any web server or even local file system
 
 ## How To Continue
-
+Run jar file and continue with this
