@@ -19,4 +19,4 @@ then run main.java projects gets started
 Please for this repository and issue pull request for review
 
 ### Copyright 
-2014 Copyright notice
+2014 Copyright notice All Right reserved
